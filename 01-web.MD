@@ -75,7 +75,7 @@ location /health {
 }
 ```
 
-Ensure you replace the `localhost` with the actual ip address of those component server. Word `localhost` is just used to avoid the failures on the Nginx Server.
+Ensure you replace the `localhost` with the actual ip address of those component server. Word `localhost` is just used to avoid the failures on the Nginx Server..
 
 Restart Nginx Service to load the changes of the configuration.
 
